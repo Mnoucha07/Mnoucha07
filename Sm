@@ -1,0 +1,1 @@
+Using the logisim-evolution simulator design and simulate a counter circuit that can both increment (up counter if s=0)or decrement (down counter if s=1)
